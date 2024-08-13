@@ -1,8 +1,8 @@
  <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/sundramsharma1/car)
-  ![GitHub stars](https://img.shields.io/github/stars/sundramsharma1/car?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/sundramsharma1/car?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/sundramsharma1/Network-Traffic-Analysis)
+  ![GitHub stars](https://img.shields.io/github/stars/sundramsharma1/Network-Traffic-Analysis?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/sundramsharma1/Network-Traffic-Analysis?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/StarkSundram?style=social)](https://twitter.com/intent/follow?screen_name=StarkSundram)
 <br />
 <br />
